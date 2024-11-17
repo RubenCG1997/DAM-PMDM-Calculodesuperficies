@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cálculo de superficies</string>
+    <string name="lbl_1">Rectangle</string>
+    <string name="lbl_2">Square</string>
+    <string name="lbl_3">Oval</string>
+    <string name="lbl_4">Circle</string>
+    <string name="lbl_5">Triangle</string>
+    <string name="lbl_6">Rhombus</string>
+    <string name="lbl_7">Pentagon</string>
+    <string name="lbl_8">Hexagon</string>
+</resources>
