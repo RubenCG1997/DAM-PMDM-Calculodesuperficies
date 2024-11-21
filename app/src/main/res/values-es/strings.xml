@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cálculo de superficies</string>
+    <string name="lbl_1">Rectángulo</string>
+    <string name="lbl_2">Cuadrado</string>
+    <string name="lbl_3">Óvalo</string>
+    <string name="lbl_4">Círculo</string>
+    <string name="lbl_5">Triángulo</string>
+    <string name="lbl_6">Rombo</string>
+    <string name="lbl_7">Pentágono</string>
+    <string name="lbl_8">Hexágono</string>
+    <string name="title_RA">Superficie del rectangulo</string>
+    <string name="lbl_minorSide_RA">Lado menor</string>
+    <string name="lbl_longerSide_RA">Lado mayor</string>
+    <string name="lbl_enterData">Introduce los datos</string>
+    <string name="btn_delete">Borrar</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="title_RS">Superficie del cuadrado</string>
+    <string name="lbl_sideRS">Lado</string>
+    <string name="title_RO">Superficie del óvalo</string>
+    <string name="lbl_minorRadius_R0">Radio menor</string>
+    <string name="lbl_MaxRdius_R0">Radio mayor</string>
+    <string name="title_RC">Superficie del circulo</string>
+    <string name="lbl_sideR0">Radio</string>
+    <string name="lbl_hight_RT">Altura</string>
+    <string name="lbl_base_RT">Base</string>
+    <string name="title_RT">Superficie del triángulo</string>
+    <string name="title_RR">Superficie del rombo</string>
+    <string name="lbl_rhombusMin_RR">Diagonal menor</string>
+    <string name="lbl_rhombusMax_RT">Diagonal menor</string>
+    <string name="title_RP">Superficie del pentágono</string>
+    <string name="lbl_apothem_RP">Apotema</string>
+    <string name="lbl_side_RP">Lado</string>
+    <string name="title_RH">Superficie del hexágono</string>
+    <string name="msg_error">¡Error!</string>
+</resources>

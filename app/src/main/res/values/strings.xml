@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cálculo de superficies</string>
+    <string name="app_name" translatable="false">Cálculo de superficies</string>
     <string name="lbl_1">Rectangle</string>
     <string name="lbl_2">Square</string>
     <string name="lbl_3">Oval</string>
@@ -8,4 +8,29 @@
     <string name="lbl_6">Rhombus</string>
     <string name="lbl_7">Pentagon</string>
     <string name="lbl_8">Hexagon</string>
+    <string name="title_RA">Surface of the rectangle</string>
+    <string name="lbl_minorSide_RA">Minor side</string>
+    <string name="lbl_longerSide_RA">Longer Side</string>
+    <string name="lbl_enterData">Please enter this data:</string>
+    <string name="txt_result" translatable="false">0.00</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="title_RS">Surface of square</string>
+    <string name="lbl_sideRS">Side</string>
+    <string name="title_RO">Surface of oval</string>
+    <string name="lbl_minorRadius_R0">Minor Radius</string>
+    <string name="lbl_MaxRdius_R0">Max radius</string>
+    <string name="title_RC">Surface of circle</string>
+    <string name="lbl_sideR0">Radius</string>
+    <string name="lbl_hight_RT">High</string>
+    <string name="lbl_base_RT">Base</string>
+    <string name="title_RT">Surface of triangle</string>
+    <string name="title_RR">Surface of rhombus</string>
+    <string name="lbl_rhombusMin_RR">small diagonal</string>
+    <string name="lbl_rhombusMax_RT">major diagonal</string>
+    <string name="title_RP">Surface of pentagon</string>
+    <string name="lbl_apothem_RP">apothem</string>
+    <string name="lbl_side_RP">side</string>
+    <string name="title_RH">Surface of hexagon</string>
+    <string name="msg_error">Error!</string>
 </resources>

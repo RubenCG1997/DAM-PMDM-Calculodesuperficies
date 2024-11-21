@@ -13,8 +13,33 @@
         android:theme="@style/Theme.CálculoDeSuperficies"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityHexagon"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityPentagon"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityRhombus"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityTriangle"
+            android:exported="false" />
+        <activity
+            android:name=".ActiviyCircle"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityOval"
+            android:exported="false" />
+        <activity
+            android:name=".ActivitySquare"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityRectangle"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
